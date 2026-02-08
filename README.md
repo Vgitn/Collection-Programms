@@ -1,5 +1,5 @@
 # Антивирусы для удаления вирусов и востановления(бесплатные)
-№1 Kaspersky Virus Removal Tool- https://www.kaspersky.ru/downloads/free-virus-removal-tool 
+№1 Kaspersky Virus Removal Tool- https://www.kaspersky.ru/downloads/free-virus-removal-tool \n
 №2 Dr.Web CureIt- https://free.drweb.ru/cureit
 
 # Антивирусы для обычного ользования
