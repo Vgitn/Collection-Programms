@@ -2,7 +2,7 @@
 Kaspersky Virus Removal Tool https://www.kaspersky.ru/downloads/free-virus-removal-tool  
 Dr.Web CureIt https://free.drweb.ru/cureit
 
-# Антивирусы для обычного ользования
+# Антивирусы для обычного пользования
 Kaspersky Free https://www.kaspersky.ru/downloads/free-antivirus
 
 # Windows 10
