@@ -13,3 +13,5 @@ Kaspersky Free https://www.kaspersky.ru/downloads/free-antivirus
 Pro plus  https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-ru/ProPlus2024Retail.img  
 Home & Business  https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/HomeBusiness2024Retail.img  
 Home  https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/Home2024Retail.img  
+
+[Текст ссылки](https://example.com)
